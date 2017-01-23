@@ -8,4 +8,4 @@ cd ~/.../project-folder
 python -m SimpleHTTPServer 8888 & # Python 2
 python -m http.server 8888 & # Python 3
 ```
-Now open the local host http://localhost:8888 to see the visualization.
+Now open local host http://localhost:8888/ to see the visualization.
